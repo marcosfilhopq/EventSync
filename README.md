@@ -37,7 +37,7 @@
 
 3. **Execute o programa**:
    ```bash
-   python main.py
+   python EventSync.py
    ```
 
 ---
