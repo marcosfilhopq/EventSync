@@ -73,7 +73,7 @@ Ao iniciar o programa, a interface gráfica apresenta abas com as seguintes func
    - Selecione um evento ou participante e clique em **"Remover"** para excluí-lo.
 
 5. **Salvar Dados**:
-   - Use a aba **Salvar Arquivos** para exportar dados em JSON ou TXT.
+   - Use a aba **Salvar Arquivos** para exportar e atualizar dados em JSON ou TXT. Caso já tenha exportado arquivos e queira adicionar novos dados no JSON e no TXT simplesmente clique nos botoes na aba de Salvar Arquivos para que os acervos sejam atualizados.
 
 ---
 
